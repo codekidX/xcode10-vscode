@@ -1,0 +1,25 @@
+{
+  "name": "xcode10",
+  "displayName": "Xcode 10",
+  "description": "Xcode 10 default dark theme for VSCode.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/codekidX/xcode10"
+  },
+  "publisher": "codekidX",
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Xcode 10",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode 10-color-theme.json"
+      }
+    ]
+  }
+}
