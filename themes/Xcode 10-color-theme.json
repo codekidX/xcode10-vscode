@@ -14,6 +14,7 @@
     "editor.selectionBackground": "#303237",
     "editorCursor.background": "#ff0000",
     "editorCursor.foreground": "#c9c9c9",
+    "editorLink.activeForeground": "#80CBC4",
     "statusBar.background": "#2F3032",
     "panel.background": "#1F2022",
     "sideBar.background": "#2C2D30",
@@ -236,6 +237,40 @@
       ],
       "settings": {
         "foreground": "#888d94"
+      }
+    },
+    {
+      "scope": "storage.type.class",
+      "settings": {
+        "foreground": "#E088AF",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "scope": [
+        "source.python entity.name.function",
+        "source.python meta.function-call"
+      ],
+      "settings": {
+        "foreground": "#B2D088",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "source.python support.class",
+        "source.python entity.name.type",
+        "source.python entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#C2EBE1"
+      }
+    },
+    {
+      "scope": "source.python support.type",
+      "settings": {
+        "foreground": "#B2D088",
+        "fontStyle": "italic bold"
       }
     }
   ]
