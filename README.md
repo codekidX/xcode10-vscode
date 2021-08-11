@@ -1,10 +1,15 @@
 # Xcode 10
 
-This is WIP Xcode 10 theme for VSCode. This is still in alpha stage. This theme will evolve every Sunday and will reach maturity on version 1.0.0.
+> v0.1.x
+
+Xcode10 is a theme based on Apple's Xcode version 10, which was released way
+long ago and had an awesome dark theme. The color combinations in the new
+versions are inspired from various themes like Boxy, Gruvbox and many others
+but the base Xcode 10 colors somewhat is conveyed the same.
 
 ### Preview
 
-![xcode10-alpha-preview](https://i.imgur.com/aScPQfu.png)
+![xcode10-0.1.x-preview](https://i.imgur.com/vQatdsJ.png)
 
 ### Issues
 
