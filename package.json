@@ -1,8 +1,8 @@
 {
   "name": "xcode10",
   "displayName": "Xcode 10",
-  "description": "Xcode 10 default dark theme for VSCode.",
-  "version": "0.0.2",
+  "description": "Xcode 10 theme port with a custom flair of color sycnhronicity.",
+  "version": "0.1.0",
   "repository": {
     "url": "https://github.com/codekidX/xcode10"
   },
