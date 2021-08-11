@@ -1349,6 +1349,12 @@
       }
     },
     {
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#DABB79"
+      }
+    },
+    {
       "scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
       "settings": {
         "foreground": "#96C8CC"
