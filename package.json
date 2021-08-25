@@ -2,7 +2,7 @@
   "name": "xcode10",
   "displayName": "Xcode 10",
   "description": "Xcode 10 theme port with a custom flair of color sycnhronicity.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "repository": {
     "url": "https://github.com/codekidX/xcode10"
   },
@@ -19,6 +19,11 @@
         "label": "Xcode 10",
         "uiTheme": "vs-dark",
         "path": "./themes/Xcode 10-color-theme.json"
+      },
+      {
+        "label": "Xcode 10 Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Xcode 10-coffee-color-theme.json"
       }
     ]
   }
